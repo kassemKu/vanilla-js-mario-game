@@ -185,7 +185,7 @@ function animate() {
   });
   // Win condition
   if (scrollOffset > 2000) {
-    console.log("you win");
+    console.log("you win!!!");
   }
   // lose condition
   if (player.position.y > canvas.height) {
